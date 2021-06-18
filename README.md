@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @parul-jain5102
+- 👀 I’m interested in Coding and development
+- 🌱 I’m currently learning Web development and Practicing Competitive programming
+- 📫 You can reach me through my email which is jainparul045@gmail.com
